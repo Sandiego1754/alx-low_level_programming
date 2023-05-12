@@ -1,1 +1,1 @@
-My readme file for the project on 0x09-static_libraries
+A readme file for the 0x09-static_libraries project
