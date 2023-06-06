@@ -15,7 +15,7 @@ listint_t *temp;
 if (!h || !*h)
 return (0);
 
-while (*h);
+while (*h)
 {
 diff = *h - (*h)->next;
 
